@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/laser_lark_5050), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-28 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-28 |
 
 <!-- datadriven:index:end -->
