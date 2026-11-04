@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/laser_lark_5050), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-11-03 |
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-03 |
 | [After Hours API Calls](./practice/sql/after-hours-api-calls) | SQL | Medium | 2026-10-29 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-28 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-28 |
