@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/laser_lark_5050), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-11-13 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-11-12 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-11-09 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-05 |
